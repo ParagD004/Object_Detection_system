@@ -1,0 +1,8 @@
+#Python Code
+
+#Store the file on Desktopn 
+#On the command prompt write the following commands
+
+cd desktop
+cd yolov5-master
+python detect.py --source #(specify the source)
